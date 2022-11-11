@@ -20,16 +20,18 @@ const _styles = StyleSheet.create({
     height: "100%"
   },
   vaDzZmKp: {
-    left: 82,
-    top: 403,
+    left: 81,
+    top: 410,
     position: "absolute",
-    width: 207,
-    height: 115,
+    width: 196,
+    height: 61,
     lineHeight: 24,
     fontSize: 24,
     borderRadius: 0,
     fontFamily: "Roboto",
-    fontWeight: "700"
+    fontWeight: "700",
+    color: "#2893e7",
+    textAlign: "center"
   },
   yKXfEJAA: {
     position: "unset"
